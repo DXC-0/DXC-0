@@ -6,7 +6,7 @@
 
 # 💻 Certifications:
 
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"></a><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"></a><script async="async" src="https://badgr.com/assets/widgets.bundle.js">
 
 ## 🌐 Socials:
 
