@@ -6,7 +6,7 @@
 
 # 💻 Certifications:
 
-<iframe src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=mateu.benoit%40outlook.fr" style="width: 330px; height: 191px; border: 0px;" title="Badge: Data Science Professional Certificate"></iframe>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"></a><script async="async" src="https://badgr.com/assets/widgets.bundle.js"></script></blockquote>
 
 ## 🌐 Socials:
 
