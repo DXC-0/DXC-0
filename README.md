@@ -6,6 +6,8 @@
 
 # 💻 Certifications:
 
+<iframe src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=mateu.benoit%40outlook.fr" style="width: 330px; height: 191px; border: 0px;" title="Badge: Data Science Professional Certificate"></iframe>
+
 ## 🌐 Socials:
 
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
