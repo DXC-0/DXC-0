@@ -1,6 +1,6 @@
 ## 💻  About Me:
 
-Double degree in criminal sciences and cybersecurity, I am a SOC analyst by day and an OSINT scrapper by night.
+Double degree in criminal sciences and cybersecurity, I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed (btw). You have to have a functional distro to farm on hack n slash - I don't know of any other btw. Understand my trollish mood, I missed the boat, I should have become a landscaper, but I ended up in cyber defense, funny. I'll let you be quietly spied on by others, probably no one has anything to hide.
 
 ## 🧰 My World:
 
