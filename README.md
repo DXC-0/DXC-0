@@ -6,7 +6,7 @@
 
 # 💻 Certifications:
 
-<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"> <img width="120px" height="120px" src="https://images.credly.com/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"> <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/cYAwe7cOTKm6DQrnfsBhjA/image">
+<img width="120px" height="120px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"> <img width="120px" height="120px" src="https://images.credly.com/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png"> <img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/cYAwe7cOTKm6DQrnfsBhjA/image"> <img width="120px" height="120px" src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=21403481">
 
 ## 🌐 Socials:
 
