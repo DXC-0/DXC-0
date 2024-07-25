@@ -12,6 +12,8 @@ Understand my trollish mood, I missed the boat, I should have become a landscape
 
 <img width="80px" height="80px" src="https://api.badgr.io/public/assertions/XPgCn1_LQ4ypuvjcKUoDmg/image"> <img width="80px" height="80px" src="https://images.credly.com/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png">  <img width="80px" height="80px" src="https://api.eu.badgr.io/public/assertions/8ejBo1YeSQWFL98QIdwIVw/image"> <img width="80px" height="80px" src="https://api.eu.badgr.io/public/assertions/llJjlu8ZSvimUf4ZXIKzjw/image"> <img width="80px" height="80px" src="https://api.eu.badgr.io/public/assertions/cYAwe7cOTKm6DQrnfsBhjA/image"> <img width="80px" height="80px" src="https://www.itta.net/wp-content/uploads/2023/01/Itil4-foundation.png.webp"> <img width="80px" height="80px" src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=21403481"> <img width="80px" height="80px" src="https://media.eu.badgr.com/uploads/badges/73fb5c4032dd6f2a6c7344837fd6b993a1120d74e70ac4646fcacb53b6bed515.png">
 
+ <script src="https://tryhackme.com/badge/2246662"></script>
+
 ## 🌐 Socials:
 
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
