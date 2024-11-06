@@ -23,6 +23,6 @@ Archlinux, with my own mirror and network infrastructure. Strict network filteri
 
 ## 🌐 Socials:
 
-[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:votreadresse@mail.fr)
+[![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:thecyberarcher@protonmail.ch)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://www.youtube.com/watch?v=tgTUtfb0Ok8)
