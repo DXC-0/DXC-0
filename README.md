@@ -15,7 +15,7 @@ We all walk to the same grave and the same death, we all go through the same bul
 Manipulation and social engineering control the world ! Or not, maybe, really ? - I let you be spied on, probably no one has anything to hide.
 </details>
 
-<details close><summary> Environment <img height="18" src="https://github.com/Aptura/Aptura/blob/master/img/debian-2-logo-png-transparent.png"> </summary>
+<details close><summary> Environment <img height="18" src="http://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png"> </summary>
 Archlinux, with my own mirror and network infrastructure. Strict network filtering, blocking everything I don't trust. I try to host all my services as much as possible, and I'm a big user of SearXNG and other free, decentralized, transparent alternatives, with no tracking. 
 </details>
 
