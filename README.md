@@ -1,5 +1,5 @@
 <details close><summary> About me 💻 </summary>
-Criminal sciences and Cybersecurity, that's what distracted me, sometimes... I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed - The best functional distro to farm on Diablo IV (btw)</details>
+Psychology, Criminal sciences and Cybersecurity, that's what distracted me, sometimes... I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed - The best functional distro to farm on Diablo IV (btw)</details>
 
 <details close><summary>What if we live in a bunker ? </summary>
 I mean, it's comfortable, away from noise, from the dictates (the real ones, those with weapons), from false experts, from false enthusiasts, from illogical and cognitive dissonance.</details>
