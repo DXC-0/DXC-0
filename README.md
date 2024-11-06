@@ -3,14 +3,14 @@ Welcome to my Github! Here I share my scripts, my small projects in the world of
 <details close><summary> About me 💻 </summary>
 Psychology, Criminal sciences and Cybersecurity, that's what distracted me, sometimes... I've been studying all the way to end up like you, doing the same thing in a loop. I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed - The best functional distro to farm on Diablo IV (btw)</details>
 
-<details close><summary>What if we live in a bunker ? </summary>
+<details close><summary>What if we live in a bunker 🪖 ? </summary>
 I mean, it's comfortable, away from noise, from the dictates (the real ones, those with weapons), from false experts, from false enthusiasts, from illogical and cognitive dissonance.</details>
 
-<details close><summary> Any convictions ? </summary>
+<details close><summary> Any convictions 🔎 ? </summary>
 We all walk to the same grave and the same death, we all go through the same bullshit, so as much as we help each other, right? If I can do anything in Cyber and network, and then share it with you, it's cool and it's been useful.
 </details>
 
-<details close><summary> Anything else? </summary>
+<details close><summary> Anything else? 💀 </summary>
 Manipulation and social engineering control the world ! Or not, maybe, really ? - I let you be spied on, probably no one has anything to hide.
 </details>
 
