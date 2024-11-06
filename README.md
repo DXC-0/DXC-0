@@ -1,8 +1,8 @@
 ## 💻  About Me:
 
-Criminal sciences and Cybersecurity, my passions... I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed (btw). You have to have a functional distro to farm on hack n slash
+Criminal sciences and Cybersecurity, my passions... I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed (btw). The best functional distro to farm on Diablo IV.
 
-Understand my trollish mood, I missed the boat, I should have become a landscaper, but I ended up in cyber defense, funny. Manipulation and social engineering control the world ! Or not, maybe, really ? - I let you be spied on, probably no one has anything to hide.
+Manipulation and social engineering control the world ! Or not, maybe, really ? - I let you be spied on, probably no one has anything to hide.
 
 ## 🧰 Numanumayeah:
 
