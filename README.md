@@ -4,6 +4,10 @@ Psychology, Criminal sciences and Cybersecurity, that's what distracted me, some
 <details close><summary>What if we live in a bunker ? </summary>
 I mean, it's comfortable, away from noise, from the dictates (the real ones, those with weapons), from false experts, from false enthusiasts, from illogical and cognitive dissonance.</details>
 
+<details close><summary> Any convictions ? </summary>
+We all walk to the same grave and the same death, we all go through the same bullshit, so as much as we help each other, right? If I can do anything in Cyber and network, and then share it with you, then it won't have helped.
+</details>
+
 Manipulation and social engineering control the world ! Or not, maybe, really ? - I let you be spied on, probably no one has anything to hide.
 
 ## 🧰  :
