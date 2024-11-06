@@ -1,3 +1,5 @@
+Welcome to my Github! Here I share my scripts, my small projects in the world of Linux, Cyber and computer network.
+
 <details close><summary> About me 💻 </summary>
 Psychology, Criminal sciences and Cybersecurity, that's what distracted me, sometimes... I've been studying all the way to end up like you, doing the same thing in a loop. I am a SOC analyst by day and an OSINT scrapper by night. Otherwise I am an Archlinux user, as you may have noticed - The best functional distro to farm on Diablo IV (btw)</details>
 
