@@ -1,5 +1,3 @@
-## <img height="30" src="http://pngimg.com/uploads/trollface/trollface_PNG13.png"> OHOHOHOHOHOHOHOHOHOHOH !
-
 Welcome to my Github! Here I share my scripts, my small projects in the world of automation and open-source. \
 Former network engineer, currently SOC L3 analyst.
 
