@@ -2,7 +2,7 @@
 
 Here I share my scripts, my small projects in the world of automation and open-source
 - [#U-Blue](https://github.com/ublue-os) user and [#Linux]() enthousiast 🐧❤️
-- I operate several [#Proxies]() and [#Honeypots](https://github.com/DXC-0/Malicious-Robots)
+- I operate several [#Nodes](https://metrics.torproject.org/rs.html#search/contact:DXC-0%20) and [#Honeypots](https://github.com/DXC-0/Malicious-Robots)
 - Currently working on a fedora custom image [#daemonix](https://github.com/DXC-0/daemonix)
 
 ---  
