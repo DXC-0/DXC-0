@@ -5,4 +5,4 @@ Here I share my scripts, my small projects in the world of automation and open-s
 - I operate several [#Nodes](https://metrics.torproject.org/rs.html#search/contact:DXC-0%20) and [#Honeypots](https://github.com/DXC-0/Malicious-Robots)
 
 ---  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DXC-0&show_icons=true&theme=dark)
+![GitHub Profile](https://gh-readme-profile.vercel.app/api?username=DXC-0&theme=dark)
